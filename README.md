@@ -25,7 +25,7 @@ Le projet contient les fichiers et dossiers suivants :
 
 1. Clonez ce dépôt sur votre machine locale :
     ```bash
-    git clone https://github.com/votre-username/portfolio.git
+    git clone https://github.com/Eneuem/eneuem.github.io
     ```
 2. Ouvrez le fichier `index.html` dans votre navigateur pour voir le portfolio en action.
 
@@ -42,6 +42,6 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 - Naïm Chelbat - nemozor@gmail.com
 - Lien vers le projet : https://eneuem.github.io
 
-N'hésitez pas à consulter mon portfolio en ligne sur [eneuem.xyz](https://eneuem.xyz).
+Crédit Chat GPT
 
 
