@@ -1,0 +1,26 @@
+html, body {
+    background-color: #6A6DA6;
+    color:antiquewhite;
+    font-family: 'Martian Mono', monospace;
+    text-align: center;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    }
+
+h1 {
+    
+
+}
+
+h2{
+    font-family: 'Oswald', sans-serif;
+}
+
+li {
+    display: inline-block;
+}
+
