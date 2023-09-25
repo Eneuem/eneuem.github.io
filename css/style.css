@@ -35,16 +35,16 @@ i:hover
     color: #0E1C36;
 }
 .CTA {
-    border: 2px solid #ffffff;  /* Changez la couleur en fonction de vos préférences */
-    padding: 20px;  /* Ajoute de l'espace entre le contenu et la bordure */
-    background-color: rgba(255, 255, 255, 0.1);  /* Couleur blanche avec une opacité de 10% */
-    border-radius: 10px;  /* Optionnel : ajoute des coins arrondis à la bordure */
+    border: 2px solid #ffffff;  
+    padding: 20px;  
+    background-color: rgba(255, 255, 255, 0.1);  
+    border-radius: 10px;  
 }
 .CTA hr {
-    border: 0;  /* Enlève la bordure par défaut */
-    height: 2px;  /* Définit l'épaisseur de la ligne */
-    background-color: #ffffff;  /* Changez la couleur en fonction de vos préférences */
-    margin: 10px 0;  /* Ajoute un peu d'espace au-dessus et en dessous de la ligne */
+    border: 0;  
+    height: 2px;  
+    background-color: #ffffff;  
+    margin: 10px 0; 
 }
 
 /* 
