@@ -1,7 +1,7 @@
 html, body {
     background-color: #6A6DA6;
     color:antiquewhite;
-    font-family: 'Martian Mono', monospace;
+    font-family: 'Dela Gothic One', cursive;
     text-align: center;
     height: 100%;
     margin: 0;
@@ -10,17 +10,52 @@ html, body {
     justify-content: center;
     flex-direction: column;
     }
-
-h1 {
-    
-
+h1
+{
+    font-size: 4em;
 }
-
 h2{
     font-family: 'Oswald', sans-serif;
+}
+a, a:active, a::after{
+	text-decoration: none;
+	color: antiquewhite;
 }
 
 li {
     display: inline-block;
 }
 
+i{
+    font-size: 3.5em;
+    padding: 10px;
+}
+i:hover
+{
+    color: #0E1C36;
+}
+.CTA {
+    border: 2px solid #ffffff;  /* Changez la couleur en fonction de vos préférences */
+    padding: 20px;  /* Ajoute de l'espace entre le contenu et la bordure */
+    background-color: rgba(255, 255, 255, 0.1);  /* Couleur blanche avec une opacité de 10% */
+    border-radius: 10px;  /* Optionnel : ajoute des coins arrondis à la bordure */
+}
+.CTA hr {
+    border: 0;  /* Enlève la bordure par défaut */
+    height: 2px;  /* Définit l'épaisseur de la ligne */
+    background-color: #ffffff;  /* Changez la couleur en fonction de vos préférences */
+    margin: 10px 0;  /* Ajoute un peu d'espace au-dessus et en dessous de la ligne */
+}
+
+/* 
+li a {
+    fill:antiquewhite;
+}
+li a:hover 
+{
+    fill:black;
+}
+li a:visited
+{
+    color: antiquewhite;
+} */
