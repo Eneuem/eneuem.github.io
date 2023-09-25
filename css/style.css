@@ -24,6 +24,7 @@ a, a:active, a::after{
 
 li {
     display: inline-block;
+    position: static;
 }
 img
 {
@@ -32,11 +33,18 @@ img
 i{
     font-size: 3.5em;
     padding: 10px;
+    transition: transform 1s;
+}
+.icons
+{
+    display: flex;
+    justify-content: space-around;
 }
 i:hover
 {
     color: #0E1C36;
-    font-size: 3em;
+    transform: scale(0.85);
+    transition: 1s;
 }
 .CTA {
     border: 2px solid #0E1C36;  
@@ -46,6 +54,7 @@ i:hover
     border-top-right-radius: 0;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 90px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
 }
 
 .CTA hr {
@@ -54,7 +63,11 @@ i:hover
     background-color: #0E1C36;  
     margin: 10px 0; 
 }
-
+img
+{
+    width: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
+}
 /* 
 li a {
     fill:antiquewhite;
