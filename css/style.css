@@ -36,7 +36,7 @@ i{
     padding: 10px;
     transition: transform 1s;
 }
-.icons
+p
 {
     display: flex;
     justify-content: space-around;
@@ -48,7 +48,7 @@ i:hover
     transform: scale(0.85);
     transition: 1s;
 }
-.CTA {
+section {
     border: 2px solid #0E1C36;  
     padding: 20px;  
     background-color: rgba(255, 255, 255, 0.1);  
@@ -59,7 +59,7 @@ i:hover
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
 }
 
-.CTA hr {
+.section hr {
     border: 0;  
     height: 2px;  
     background-color: #0E1C36;  
